@@ -1,6 +1,8 @@
 
 # Agenthacks session: Building Java AI Agents using LangChain4j and Dynamic Sessions
 
+Shortlink to this repo: https://aka.ms/acaonl4j
+
 ## Repository Contents
 
 This repository contains the example code demonstrated during the session, showing how to leverage Azure Container Apps (ACA) dynamic sessions for remote code execution, file management, and interactive communication using LangChain4j.
